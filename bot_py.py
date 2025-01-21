@@ -6,8 +6,8 @@ import re
 import time
 
 # Константы
-BOT_TOKEN = '7247840603:AAEHxB8Mv2siQKIKIdxi3Rs5eR9lyziUtwA'
-ADMIN_ID = 374805661
+BOT_TOKEN = [BOT_TOKEN]
+ADMIN_ID = [ADMIN_ID]
 BASE_PATH = r'C:\kislorod_base'
 BASE_FILE = os.path.join(BASE_PATH, 'car_registry.xlsx')
 
